@@ -25,8 +25,9 @@
   <a href="https://www.linkedin.com/in/joão-paulo-barreiros-662238220" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/97689806/175615592-0686b4ab-7b2b-4698-a7b6-e34af6389198.svg)
 
 </div>
-![github-contribution-grid-snake (1)](https://user-images.githubusercontent.com/97689806/175615530-54a580e3-e640-4091-85e1-fe758711518c.svg)
+
 
 
